@@ -1,0 +1,41 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+#main {
+  flex: 1;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.profile-pic {
+  width: 200px;
+  height: auto;
+  border-radius: 100px;
+}
+
+footer p{
+font-size: .8rem;
+}
+
+nav,
+footer {
+  background-color: #263236;
+}
+
+.nav-pic {
+  width: 25px;
+  height: auto;
+  border-radius: 100px;
+}
+
+a {
+  text-decoration: none;
+  color: #607995;
+}
+
+.user-avatar {
+  position: relative
+}

@@ -1,0 +1,13 @@
+{
+    "name": "hadim/assignment-2-starter-kit",
+    "type": "project",
+    "authors": [
+        {
+            "name": "hadimktri",
+            "email": "116309036+hadimktri@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
